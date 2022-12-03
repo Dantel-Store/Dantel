@@ -34,12 +34,12 @@
   --content-padding:1.25rem;
   --inline-spacing:0.5rem;
   --border-radius:6px;
-  --surface-ground:#eff3f8;
+  --surface-ground:#f8eff5;
   --surface-section:#ffffff;
   --surface-card:#ffffff;
   --surface-overlay:#ffffff;
-  --surface-border:#dfe7ef;
-  --surface-hover:#f6f9fc;
+  --surface-border:#efdfe6;
+  --surface-hover:#fcf6fa;
   --focus-ring: 0 0 0 0.2rem #f6cce0;
   --maskbg: rgba(0, 0, 0, 0.4);
 }
