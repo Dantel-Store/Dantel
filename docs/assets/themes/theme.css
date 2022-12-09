@@ -2008,14 +2008,14 @@ p-treeselect.p-treeselect-clearable .p-treeselect-clear-icon {
 }
 
 .p-button.p-button-secondary, .p-buttonset.p-button-secondary > .p-button, .p-splitbutton.p-button-secondary > .p-button {
-  color: #ffffff;
-  background: #64748B;
-  border: 1px solid #64748B;
+  color: #757575;
+  background: #f8f9fa;
+  border: 1px solid #fef6fa;
 }
 .p-button.p-button-secondary:enabled:hover, .p-buttonset.p-button-secondary > .p-button:enabled:hover, .p-splitbutton.p-button-secondary > .p-button:enabled:hover {
-  background: #475569;
+  background: #757575;
   color: #ffffff;
-  border-color: #475569;
+  border-color: #757575;
 }
 .p-button.p-button-secondary:enabled:focus, .p-buttonset.p-button-secondary > .p-button:enabled:focus, .p-splitbutton.p-button-secondary > .p-button:enabled:focus {
   box-shadow: 0 0 0 0.2rem #E2E8F0;
