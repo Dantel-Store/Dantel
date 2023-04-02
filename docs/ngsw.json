@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1680463728585,
+  "timestamp": 1680466344902,
   "index": "/Dantel/index.html",
   "assetGroups": [
     {
@@ -24,7 +24,7 @@
         "/Dantel/common.9c3c0f451de2f46c.js",
         "/Dantel/favicon.ico",
         "/Dantel/index.html",
-        "/Dantel/main.072e1a65194642c7.js",
+        "/Dantel/main.dba0251762d4de70.js",
         "/Dantel/manifest.webmanifest",
         "/Dantel/polyfills.8756fef6c4d34bb2.js",
         "/Dantel/runtime.105dc1964280f064.js",
@@ -153,8 +153,8 @@
     "/Dantel/common.9c3c0f451de2f46c.js": "f703ec6aa2b458fc7a75274c825b9b630bba8370",
     "/Dantel/favicon.ico": "b08a7ae8ba1d898053a35335308db63a4e1b6eba",
     "/Dantel/hue.8b1818380241e6ac.png": "f81ae627637a684614aa726e206c73ce099a01fd",
-    "/Dantel/index.html": "81e8c7a636750c629e034100bde37f4d6950e4da",
-    "/Dantel/main.072e1a65194642c7.js": "a91dd0a6056617b4a2636497b884c1ca83f526e9",
+    "/Dantel/index.html": "27285f20b2dcc0b5bd0423c97d9c5339c46e06eb",
+    "/Dantel/main.dba0251762d4de70.js": "dad3de9a81dc9e8cc3ba2082c5ae2d6d83742165",
     "/Dantel/manifest.webmanifest": "863e1862a5bbeade6328044126bd4f23c045012f",
     "/Dantel/polyfills.8756fef6c4d34bb2.js": "4bf88a4c5c98132ef7d46af6e18c095da764b14e",
     "/Dantel/primeicons.0112589c5695a9ed.ttf": "ceeb46d594fde5cc507cdf8b70e38e78fe47653c",
