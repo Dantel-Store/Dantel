@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1683664727854,
+  "timestamp": 1683698889966,
   "index": "/Dantel/index.html",
   "assetGroups": [
     {
@@ -28,7 +28,7 @@
         "/Dantel/758.96da84f15427a538.js",
         "/Dantel/765.2b8d5b4499f04f1d.js",
         "/Dantel/911.c982907a767b9d00.js",
-        "/Dantel/920.1beda388ae4b159d.js",
+        "/Dantel/920.eab372a7937d9968.js",
         "/Dantel/968.2ddde53b86b6a4d3.js",
         "/Dantel/common.4d5ebf16d51991c4.js",
         "/Dantel/favicon.ico",
@@ -36,7 +36,7 @@
         "/Dantel/main.a3940b33b4dc792d.js",
         "/Dantel/manifest.webmanifest",
         "/Dantel/polyfills.3918055fb9830bf9.js",
-        "/Dantel/runtime.bc39882042b0a912.js",
+        "/Dantel/runtime.2422925d2298deda.js",
         "/Dantel/styles.4fc36a20ee6a77e6.css"
       ],
       "patterns": []
@@ -140,7 +140,7 @@
     "/Dantel/758.96da84f15427a538.js": "f5420da480157dbeb83a87294d699fbfa5cd159e",
     "/Dantel/765.2b8d5b4499f04f1d.js": "51e8fc6efdc3bbc4cb096122a712efc995793ede",
     "/Dantel/911.c982907a767b9d00.js": "90361df93d8cae5f9db753c4be489120f3a235b9",
-    "/Dantel/920.1beda388ae4b159d.js": "30fbc67fc51e4416879ca1340e1b020cecfeef9b",
+    "/Dantel/920.eab372a7937d9968.js": "98d65ccda7d2aebb8d389b0cc08fa069874ec4b0",
     "/Dantel/968.2ddde53b86b6a4d3.js": "85061e89c088f3dc87755e02dfb0730a656138d4",
     "/Dantel/assets/font/Cocon-Regular-Font.otf": "9c2bd7e63265000722ec56726f5f21aa20171dcd",
     "/Dantel/assets/font/DynaPuff-VariableFont_wdth,wght.ttf": "76e7cf3795b06c307fe8b1e4c1af20eee98eaf32",
@@ -206,7 +206,7 @@
     "/Dantel/common.4d5ebf16d51991c4.js": "37936828a6e22f12addd92ce68c2edc6d6f10d66",
     "/Dantel/favicon.ico": "b08a7ae8ba1d898053a35335308db63a4e1b6eba",
     "/Dantel/hue.8b1818380241e6ac.png": "f81ae627637a684614aa726e206c73ce099a01fd",
-    "/Dantel/index.html": "d834c1f2e1421703153de24475cf8b0494406592",
+    "/Dantel/index.html": "6ba2b1654b96e432035a2e33e3cdafa39843dfcf",
     "/Dantel/main.a3940b33b4dc792d.js": "7c9018c21e67972c7df2d006b3067d7fe2d29460",
     "/Dantel/manifest.webmanifest": "863e1862a5bbeade6328044126bd4f23c045012f",
     "/Dantel/polyfills.3918055fb9830bf9.js": "e61c00e2a8be0ad09faf5b8c66c2a9a8dc2a9a60",
@@ -214,7 +214,7 @@
     "/Dantel/primeicons.943ab24c43224d29.svg": "d3332a45242b8f6edbf3f3c7176a280e7edcd961",
     "/Dantel/primeicons.ba3f916dfb64be8c.woff2": "55a4b2a5f02e362405d8d874903af0b5f6a6c15d",
     "/Dantel/primeicons.f8b9e8a4e401b603.woff": "b1648b50be13350fde8b5d9a6fe78354ddcc43e4",
-    "/Dantel/runtime.bc39882042b0a912.js": "44bd11dea35e431a49f13902431236e95401c44a",
+    "/Dantel/runtime.2422925d2298deda.js": "07d58772a3285d63c7be884be2f0dbeb50310b2c",
     "/Dantel/shoppingBag.b620f040157d529b.svg": "cba807ec25451da55d61b61b814173919563e757",
     "/Dantel/styles.4fc36a20ee6a77e6.css": "5345ce4a8dd10178eab7417359b620f0dacf9c83",
     "/Dantel/welcome-Bg.3b91d46c0f67edff.png": "3ab0ba2f55cad9756f6a3829e6864867d559c586"
